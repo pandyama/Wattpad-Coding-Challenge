@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/istok_web</item>
+        <item>@font/laila_medium</item>
+        <item>@font/lobster_two</item>
+        <item>@font/philosopher</item>
+    </array>
+</resources>
